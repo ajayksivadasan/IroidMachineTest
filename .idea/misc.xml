@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Ajay/IroidMachineTest/app/src/main/res/drawable/bg_subscribe_now_bubble.xml" value="0.2095" />
+        <entry key="..\:/Ajay/IroidMachineTest/app/src/main/res/drawable/ic_background_icons.xml" value="0.2095" />
+        <entry key="..\:/Ajay/IroidMachineTest/app/src/main/res/drawable/ic_icon_subscribe_key.xml" value="0.2095" />
+        <entry key="..\:/Ajay/IroidMachineTest/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Ajay/IroidMachineTest/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Ajay/IroidMachineTest/app/src/main/res/layout/view_icon_button.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>
