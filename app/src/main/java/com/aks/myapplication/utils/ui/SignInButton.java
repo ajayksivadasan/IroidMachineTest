@@ -15,18 +15,18 @@ import androidx.core.content.ContextCompat;
 
 import com.aks.myapplication.R;
 
-public class DealerKeyButton extends RelativeLayout {
+public class SignInButton extends RelativeLayout {
     Context context;
     private String buttonText;
     private Drawable buttonDrawable;
 
-    public DealerKeyButton(@NonNull Context context) {
+    public SignInButton(@NonNull Context context) {
         super(context);
         this.context = context;
         init();
     }
 
-    public DealerKeyButton(Context context, AttributeSet attributeSet) {
+    public SignInButton(Context context, AttributeSet attributeSet) {
         super(context, attributeSet);
         init();
         this.context = context;
